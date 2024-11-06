@@ -26,6 +26,7 @@ public class Ejemplo5 {
 
         if (!ciudad.equals("Loja")) {
             System.out.printf("%s\n", "acceso correcto");
+            // el fin de admiracion (!) esa para negar en cadena 
         } else {
             System.out.printf("%s\n", "acceso incorrecto");
         }
