@@ -19,6 +19,8 @@ public class Ejemplo {
     public static void main(String[] args) {
         // Ingresar un número por teclado, determinar si es par o impar
         // Un número es para si al dividirlo para dos su residuo es cero.
+        // 10/5=2
+        // 10mod5=0 
 
         Scanner entrada = new Scanner(System.in);
         int numeroIngresado;
